@@ -67,6 +67,8 @@ In this subsection, you’ll create a smart contract that defines KaseiCoin as a
 7. Check for any errors, and debug them as needed.
 
 8. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your GitHub repository.
+   
+![KaseiCoin token contract code](https://github.com/noniemuthoni/KaseiCoin/assets/133269723/52038672-a35b-4097-8e87-16a30cd49981)
 
 ### Step 2: Create the KaseiCoin Crowdsale Contract
 
@@ -87,6 +89,9 @@ In this subsection, you’ll define the KaseiCoin crowdsale contract. To do so, 
 5. Check for any errors, and debug them as needed.
 
 6. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your GitHub repository.
+
+![KaseiCoin Crowdsale Contract code](https://github.com/noniemuthoni/KaseiCoin/assets/133269723/8e550f4f-a91d-4a1a-b233-72582ca640ad)
+
 
 ### Step 3: Create the KaseiCoin Deployer Contract
 
@@ -137,6 +142,10 @@ In this subsection, you’ll deploy the crowdsale to a local blockchain. You’l
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
+
+![Deployed](https://github.com/noniemuthoni/KaseiCoin/assets/133269723/dd0c75e2-952b-44cd-83d6-307c136e637a)
+
+   
 
 ### Optional: Extend the Crowdsale Contract by Using OpenZeppelin
 
